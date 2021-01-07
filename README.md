@@ -14,14 +14,13 @@ I was interested in New York especially during the 19th century so I dropped unn
 
 ### Data visualization
 Too quick understanding the data and the Temperatures change
-a line plot was made to see the difference between the starting and ending year of the century
+* a line plot was made to see the difference between the starting and ending year of the century
 
-![Temperature change during the 19th century](temperatures change.PNG)
+![years](https://user-images.githubusercontent.com/48351549/103928737-ef46d000-5124-11eb-9767-cce921a2c40d.png)
 
-a line plot illustrates the coldest and warmest temperature through the century.
-
-![Temperature change during the 19th century](temperatures change.PNG)
-
+* a line plot illustrates the coldest and warmest temperature through the century.
+![temps](https://user-images.githubusercontent.com/48351549/103928692-e1914a80-5124-11eb-8c87-1de5882cbe9f.png)
+](url)
 An animated bar plot was made to see in details how temperatures change
 ![all_years](final.gif)
 
