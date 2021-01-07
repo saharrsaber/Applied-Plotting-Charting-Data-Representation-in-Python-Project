@@ -13,8 +13,12 @@ I searched a lot to find a suitable dataset that contains historical temperature
 I was interested in New York especially during the 19th century so I dropped unnecessary cols or rows 
 
 ### Data visualization
-Too quick understanding the data and the Temperatures change, A-line plot was made to see the difference between the starting and ending year of our data
-![Temperature change during the 19th century](temperatures.PNG)
+Too quick understanding the data and the Temperatures change
+* a line plot was made to see the difference between the starting and ending year of the century
+![Temperature change during the 19th century](temperatures change.PNG)
+
+* a line plot illustrates the coldest and warmest temperature through the century.
+![Temperature change during the 19th century](temperatures change.PNG)
 
 An animated bar plot was made to see in details how temperatures change
 ![all_years](final.gif)
